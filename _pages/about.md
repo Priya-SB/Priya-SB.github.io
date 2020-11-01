@@ -1,10 +1,9 @@
 ---
-title: "About"
+title: "ABOUT"
 permalink: /about/
-header:
-  image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I am an undergraduate student at [MIT World Peace University](https://mitwpu.edu.in/), India and shall graduate in June 2021 with a bachelor's degree in Computer Science and Engineering.
+Areas of interest: Evolutionary Computation, Computer Vision, Natural Language Processing, Machine Learning 
 
-Etc, etc, etc
+I craft for fun. Find some of my hand-embroidered pieces [@whats.my.hobby](https://www.instagram.com/whats.my.hobby/?hl=en) on Instagram.
