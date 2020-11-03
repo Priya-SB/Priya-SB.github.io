@@ -8,15 +8,15 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Priya Bannur"
+title                    : "Priya Bannur :: Personal Page"
 title_separator          : "-"
 name                     : "Priya Bannur"
 description              : "Portfolio"
 url                      : "https://Priya-SB.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # "/images/bg-floral.jpg"
-# breadcrumbs            : false # true, false (default)
+baseurl                  : "/blog"
+repository               : "Priya-SB/Priya-SB.github.io"
+teaser                   : "/images/bg-floral.jpg"
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -29,28 +29,28 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+  path                   : blank (default) uses feed.xml
+search                   : true, false (default)
+search_full_content      : true, false (default)
 
 # SEO Related
 google_site_verification :
@@ -62,7 +62,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -93,13 +93,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/people/Priya-Bannur/100009464583186"
   foursquare       :
   github           : "Priya-SB"
   gitlab           :
-  google_plus      :
+  google_plus      : "https://scholar.google.com/citations?user=J3Cj148AAAAJ&hl=en&oi=ao"
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/priya.bannur/?hl=en"
   lastfm           :
   linkedin         : "priyabannur" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
