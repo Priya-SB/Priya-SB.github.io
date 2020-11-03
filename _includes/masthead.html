@@ -11,6 +11,7 @@
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
             <li class="masthead__menu-item">
+              <a href="PriyaBannur.pdf">Resume</a>
               <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
@@ -26,8 +27,6 @@
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
           <div class="navicon"></div>
         </button>
-         <a class="greedy-nav__toggle hidden" type="button" href="MyResume.pdf">Resume</a></span>
-         <div class="navicon"></div>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
