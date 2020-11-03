@@ -16,7 +16,7 @@ url                      : "https://Priya-SB.github.io"
 baseurl                  : "/blog"
 repository               : "Priya-SB/Priya-SB.github.io"
 teaser                   : "/images/bg-floral.jpg"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -93,13 +93,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/people/Priya-Bannur/100009464583186"
+  facebook         : 
   foursquare       :
   github           : "Priya-SB"
   gitlab           :
-  google_plus      : "https://scholar.google.com/citations?user=J3Cj148AAAAJ&hl=en&oi=ao"
+  google_plus      : 
   keybase          :
-  instagram        : "https://www.instagram.com/priya.bannur/?hl=en"
+  instagram        : 
   lastfm           :
   linkedin         : "priyabannur" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
