@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : "Priya Bannur"
 description              : "Portfolio"
 url                      : "https://Priya-SB.github.io"
-baseurl                  : "/blog"
-repository               : "Priya-SB/Priya-SB.github.io"
+baseurl                  : # "/blog"
+repository               : # "Priya-SB/Priya-SB.github.io"
 teaser                   : "/images/bg-floral.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -247,7 +247,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # true
       comments: # true
       share: true
       related: true
