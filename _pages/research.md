@@ -7,5 +7,5 @@ author_profile: true
 
 
 ## 1. Application of Swarm Robotic System in a Dynamic Environment using Cohort Intelligence
-  Journal : Soft Computing Letters, Publisher : Elsevier
-### [View Online](https://www.sciencedirect.com/science/article/pii/S2666222120300058) | [Download PDF](https://github.com/Priya-SB/Priya-SB.github.io/blob/master/_pages/socl.pdf)
+Journal : Soft Computing Letters, Publisher : Elsevier
+### [View Online](https://www.sciencedirect.com/science/article/pii/S2666222120300058) | [Download PDF]("socl.pdf")
