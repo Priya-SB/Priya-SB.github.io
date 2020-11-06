@@ -2,9 +2,8 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        
+        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
         <ul class="visible-links">
-          <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -17,6 +16,15 @@
           {% endfor %}
         </ul>
         
+        <ul class="visible-links">
+          {% for link in site.data.navigation.main %}
+            {% assign domain = site.url %}
+            <li class="masthead__menu-item">
+              <span style="background-color: #ffcc80"><href="PriyaBannur.pdf"><b>Resume</b></a></span>
+            </li>
+          {% endfor %}
+        </ul>
+        
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
@@ -24,7 +32,6 @@
           </svg>
         </button>
         {% endif %}
-        <span style="background-color: #ffcc80"><href="PriyaBannur.pdf"><b>Resume</b></a></span>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
