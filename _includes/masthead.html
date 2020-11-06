@@ -15,13 +15,8 @@
             </li>
           {% endfor %}
         </ul>
-        
-        <ul class="visible-links">
-          {% for link in site.data.navigation.main %}
-            {% assign domain = site.url %}
-              <span style="background-color: #ffcc80"><href="PriyaBannur.pdf"><b>Resume</b></a></span>
-          {% endfor %}
-        </ul>
+
+        <span style="background-color: #ffcc80"><a href="{{ '/' | absolute_url }}/PriyaBannur.pdf"><b>Resume</b></a></span>
         
         {% if site.search == true %}
         <button class="search__toggle" type="button">
