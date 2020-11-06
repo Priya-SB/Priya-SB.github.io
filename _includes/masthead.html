@@ -2,8 +2,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+        
         <ul class="visible-links">
+          <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -15,7 +16,6 @@
             </li>
           {% endfor %}
         </ul>
-        <span style="background-color: #ffcc80"><a href="Priya-SB/Priya-SB.github.io/PriyaBannur.pdf"><b>Resume</b></a></span>
         
         {% if site.search == true %}
         <button class="search__toggle" type="button">
@@ -24,6 +24,8 @@
           </svg>
         </button>
         {% endif %}
+        <span style="background-color: #ffcc80"><href="PriyaBannur.pdf"><b>Resume</b></a></span>
+        
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
           <div class="navicon"></div>
