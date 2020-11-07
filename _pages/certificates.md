@@ -2,19 +2,19 @@
 layout: posts
 permalink: /certificates/
 title: "My Accolades"
-author_profile: false
+author_profile: true
 ---
-<img src="awardpic.jpg" width="300" class="inline">
+<img src="awardpic.jpg" width="350" class="inline">
 ## Awards:
 #### University Topper
 <img src="UniTopper1.jpg" width="300" class="inline"><img src="UniTopper2.jpg" width="300" class="inline">
 #### <img src="IACC.jpg" width="400" class="inline"> IACC Innovative Student
 #### <img src="CodeX.jpg" width="400" class="inline"> CodeX : HackerRank
 #### Formula Student UK
-<img src="FSUK.jpg" width="300" class="inline"><img src="FSUK2.jpg" width="300" class="inline">
+<img src="FSUK.jpg" width="250" class="inline"><img src="FSUK2.jpg" width="350" class="inline">
 
 ## Internships:
-#### <img src="TML.jpg" width="400" class="inline"> Tata Motors
+#### <img src="TML.jpg" width="300" class="inline"> Tata Motors
 #### <img src="Careers360.jpg" width="400" class="inline"> Careers360
 
 ## MOOC:
@@ -27,7 +27,7 @@ author_profile: false
 
 ## Participation:
 #### <img src="SIH.jpg" width="400" class="inline"> Smart India Hackathon
-#### <img src="IoT.jpg" width="400" class="inline"> IoT Exhibition
+#### <img src="IoT.jpg" width="300" class="inline"> IoT Exhibition
 #### <img src="NEO.jpg" width="400" class="inline"> National Engineering Olympiad
 #### <img src="PuneCon.jpg" width="400" class="inline"> IEEE Conference
 #### <img src="MLworkshop.jpg" width="400" class="inline"> Machine Learning Workshop
@@ -36,4 +36,4 @@ author_profile: false
 ## Few of many at School Level:
 #### <img src="10th.jpg" width="400" class="inline"> School Topper SSC
 #### <img src="MTS.jpg" width="400" class="inline"> Maharashtra Talent Search
-#### <img src="ART.jpg" width="400" class="inline"> Intermediate Drawing
+#### <img src="ART.jpg" width="300" class="inline"> Intermediate Drawing
