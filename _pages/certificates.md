@@ -28,7 +28,7 @@ author_profile: true
 ## Participation:
 #### <img src="SIH.jpg" width="400" class="inline"> Smart India Hackathon
 #### <img src="IoT.jpg" width="300" class="inline"> IoT Exhibition
-#### <img src="NEO.jpg" width="400" class="inline"> National Engineering Olympiad
+#### <img src="NEO.jpg" width="400" class="inline"> National Engg Olympiad
 #### <img src="PuneCon.jpg" width="400" class="inline"> IEEE Conference
 #### <img src="MLworkshop.jpg" width="400" class="inline"> Machine Learning Workshop
 #### <img src="Androidws.jpg" width="400" class="inline"> Android Workshop
