@@ -6,3 +6,5 @@ main:
     url: /research/
   - title: "Certificates"
     url: /certificates/
+  - title: "Gallery"
+    url: /gallery/ 
