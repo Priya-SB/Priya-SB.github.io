@@ -6,12 +6,12 @@ layout: archive
 
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy__section">
-    <!--div class="entries-{{ page.entries_layout | default: 'list' }}">
+  <!--section id="{{ year.name }}" class="taxonomy__section">
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
       {% for post in year.items %}
         {% include archive-single.html type=page.entries_layout %}
       {% endfor %}
-    </div-->
+    </div>
     <a href="priya-sb.github.io" class="back-to-top">Return Home &uarr;</a>
-  </section>
+  </section-->
 {% endfor %}
