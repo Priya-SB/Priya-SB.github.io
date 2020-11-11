@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### INDCON
-<img src="INDCON2.jpg" width="400" class="inline">
-<img src="INDCON.jpg" width="400" class="inline">
+<img src="INDCON2.jpg" width="300" class="inline">
+<img src="INDCON.jpg" width="300" class="inline">
 <img src="INDCON4.jpg" width="200" class="inline">
 <img src="INDCON3.jpg" width="400" class="inline">
 
@@ -16,19 +16,19 @@ author_profile: true
 <img src="FSTeam.jpg" width="300" class="inline">
 
 ### Felicitation
-<img src="Felicitation.jpg" width="300" class="inline">
-<img src="Felicitation2.jpg" width="300" class="inline">
+<img src="Felicitation.jpg" width="400" class="inline">
+<img src="Felicitation2.jpg" width="200" class="inline">
 
 ### Study Tour
-<img src="NST.jpg" width="300" class="inline">
-<img src="NST2.jpg" width="300" class="inline">
-<img src="NST3.jpg" width="300" class="inline">
+<img src="NST.jpg" width="100" class="inline">
+<img src="NST2.jpg" width="400" class="inline">
+<img src="NST3.jpg" width="100" class="inline">
 
 ### Rural Immersion
-<img src="Rural1.jpg" width="300" class="inline">
 <img src="Rural2.jpg" width="300" class="inline">
-<img src="Rural3.jpg" width="300" class="inline">
 <img src="Rural4.jpg" width="300" class="inline">
+<img src="Rural1.jpg" width="100" class="inline">
+<img src="Rural3.jpg" width="500" class="inline">
 
 ### CodeX
-<img src="codex.jpg" width="300" class="inline">
+<img src="codex.jpg" width="400" class="inline">
