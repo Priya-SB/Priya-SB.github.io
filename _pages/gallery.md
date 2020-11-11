@@ -27,8 +27,8 @@ author_profile: true
 ### Rural Immersion
 <img src="Rural2.jpg" width="300" class="inline">
 <img src="Rural4.jpg" width="300" class="inline">
-<img src="Rural1.jpg" width="250" class="inline">
-<img src="Rural3.jpg" width="350" class="inline">
+<img src="Rural1.jpg" width="100" class="inline">
+<img src="Rural3.jpg" width="300" class="inline">
 
 ### CodeX
 <img src="codex.jpg" width="400" class="inline">
