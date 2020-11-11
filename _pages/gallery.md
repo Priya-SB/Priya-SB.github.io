@@ -20,15 +20,15 @@ author_profile: true
 <img src="Felicitation2.jpg" width="200" class="inline">
 
 ### Study Tour
-<img src="NST.jpg" width="100" class="inline">
-<img src="NST2.jpg" width="400" class="inline">
-<img src="NST3.jpg" width="100" class="inline">
+<img src="NST.jpg" width="150" class="inline">
+<img src="NST2.jpg" width="300" class="inline">
+<img src="NST3.jpg" width="150" class="inline">
 
 ### Rural Immersion
 <img src="Rural2.jpg" width="300" class="inline">
 <img src="Rural4.jpg" width="300" class="inline">
-<img src="Rural1.jpg" width="100" class="inline">
-<img src="Rural3.jpg" width="500" class="inline">
+<img src="Rural1.jpg" width="250" class="inline">
+<img src="Rural3.jpg" width="350" class="inline">
 
 ### CodeX
 <img src="codex.jpg" width="400" class="inline">
