@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### INDCON
-<img src="INDCON.jpg" width="300" class="inline">
-<img src="INDCON2.jpg" width="300" class="inline">
-<img src="INDCON3.jpg" width="300" class="inline">
-<img src="INDCON4.jpg" width="300" class="inline">
+<img src="INDCON.jpg" height="300" class="inline">
+<img src="INDCON2.jpg" height="300" class="inline">
+<img src="INDCON3.jpg" height="400" class="inline">
+<img src="INDCON4.jpg" height="400" class="inline">
 
 ### Formula Student UK
 <img src="FSCar96.jpg" width="300" class="inline">
