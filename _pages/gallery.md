@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /Gallery/
+permalink: /gallery/
 title: "Photo Gallery"
 author_profile: true
 ---
